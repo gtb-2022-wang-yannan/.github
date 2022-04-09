@@ -12,4 +12,8 @@
 
 I will learn how to insert picture in the Markdown.
 
+Insert online.
 ![微信图片_20220406174552](https://user-images.githubusercontent.com/66931099/162564050-df4ff603-8b39-42a0-bc13-cf60f9de92b5.jpg)
+
+Insert 2.
+![bear](assets/bear.jpg)
